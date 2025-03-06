@@ -1,8 +1,16 @@
-# Restraunt_Website01
-This Restaurant Website is created as a first project of AlderQA
+<h1>Description </h1>
+<p>Welcome to our demo landing page for an online food ordering service! This project showcases a modern and user-friendly interface designed to simplify the process of ordering food online. Our platform offers a seamless experience for users to browse through a variety of delicious cuisines, select their favorite dishes, and place orders with ease.</p>
+<h1>Screenshots</h1>
+<ul>
+  <li>
+    <h2>On Desktop </h2>
+    <img src="preview/Preview-1.png"><br><br><br><br>   
+    <img src="preview/Preview-2.png"><br><br><br><br>  
+    <img src="preview/Preview-3.png"><br><br><br><br>  
+    <img src="preview/Preview-4.png"><br><br><br><br>  
+    <img src="preview/Preview-5.png"><br><br><br><br>  
+    <img src="preview/Preview-6.png"><br><br><br><br>  
+    <img src="preview/Preview-7.png"><br><br><br><br>
+  </li>
 
-Ziggy - Online Food Ordering Landing Page
-
-Ziggy is a sleek, responsive landing page designed for an online food ordering service. 
-It offers a user-friendly interface, smooth animations, and an engaging layout to enhance the ordering experience. 
-Built with HTML, CSS, and JavaScript, it includes interactive elements, a dynamic testimonial slider, and seamless navigation. 🚀
+</ul>
